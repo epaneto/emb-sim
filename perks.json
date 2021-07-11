@@ -1,0 +1,433 @@
+{
+  "perks": [
+    {
+      "perkID": "perk_sniper_1",
+      "tier": 1,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_2",
+      "tier": 1,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_3",
+      "tier": 1,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_4",
+      "tier": 1,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_5",
+      "tier": 2,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_6",
+      "tier": 2,
+      "type": 0
+    },{
+      "perkID": "perk_sniper_7",
+      "tier": 2,
+      "type": 0
+    },{
+      "perkID": "perk_sniper_8",
+      "tier": 3,
+      "type": 0
+    },{
+      "perkID": "perk_sniper_9",
+      "tier": 3,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_10",
+      "tier": 3,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_11",
+      "tier": 4,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_12",
+      "tier": 4,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_13",
+      "tier": 4,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_14",
+      "tier": 5,
+      "type": 0
+    },
+    {
+      "perkID": "perk_sniper_15",
+      "tier": 5,
+      "type": 0
+    },
+    {
+      "perkID": "perk_shotgun_1",
+      "tier": 1,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_2",
+      "tier": 1,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_3",
+      "tier": 1,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_4",
+      "tier": 1,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_5",
+      "tier": 2,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_6",
+      "tier": 2,
+      "type": 1
+    },{
+      "perkID": "perk_shotgun_7",
+      "tier": 2,
+      "type": 1
+    },{
+      "perkID": "perk_shotgun_8",
+      "tier": 3,
+      "type": 1
+    },{
+      "perkID": "perk_shotgun_9",
+      "tier": 3,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_10",
+      "tier": 3,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_11",
+      "tier": 4,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_12",
+      "tier": 4,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_13",
+      "tier": 4,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_14",
+      "tier": 5,
+      "type": 1
+    },
+    {
+      "perkID": "perk_shotgun_15",
+      "tier": 5,
+      "type": 1
+    },
+    {
+      "perkID": "perk_pistol_1",
+      "tier": 1,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_2",
+      "tier": 1,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_3",
+      "tier": 1,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_4",
+      "tier": 1,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_5",
+      "tier": 2,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_6",
+      "tier": 2,
+      "type": 2
+    },{
+      "perkID": "perk_pistol_7",
+      "tier": 2,
+      "type": 2
+    },{
+      "perkID": "perk_pistol_8",
+      "tier": 3,
+      "type": 2
+    },{
+      "perkID": "perk_pistol_9",
+      "tier": 3,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_10",
+      "tier": 3,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_11",
+      "tier": 4,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_12",
+      "tier": 4,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_13",
+      "tier": 4,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_14",
+      "tier": 5,
+      "type": 2
+    },
+    {
+      "perkID": "perk_pistol_15",
+      "tier": 5,
+      "type": 2
+    },
+    {
+      "perkID": "perk_assault_1",
+      "tier": 1,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_2",
+      "tier": 1,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_3",
+      "tier": 1,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_4",
+      "tier": 1,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_5",
+      "tier": 2,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_6",
+      "tier": 2,
+      "type": 3
+    },{
+      "perkID": "perk_assault_7",
+      "tier": 2,
+      "type": 3
+    },{
+      "perkID": "perk_assault_8",
+      "tier": 3,
+      "type": 3
+    },{
+      "perkID": "perk_assault_9",
+      "tier": 3,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_10",
+      "tier": 3,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_11",
+      "tier": 4,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_12",
+      "tier": 4,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_13",
+      "tier": 4,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_14",
+      "tier": 5,
+      "type": 3
+    },
+    {
+      "perkID": "perk_assault_15",
+      "tier": 5,
+      "type": 3
+    },
+    {
+      "perkID": "perk_light_armour_1",
+      "tier": 1,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_2",
+      "tier": 1,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_3",
+      "tier": 2,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_4",
+      "tier": 2,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_5",
+      "tier": 3,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_6",
+      "tier": 3,
+      "type": 4
+    },{
+      "perkID": "perk_light_armour_7",
+      "tier": 4,
+      "type": 4
+    },{
+      "perkID": "perk_light_armour_8",
+      "tier": 4,
+      "type": 4
+    },{
+      "perkID": "perk_light_armour_9",
+      "tier": 5,
+      "type": 4
+    },
+    {
+      "perkID": "perk_light_armour_10",
+      "tier": 5,
+      "type": 4
+    },
+    {
+      "perkID": "perk_medium_armour_1",
+      "tier": 1,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_2",
+      "tier": 1,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_3",
+      "tier": 2,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_4",
+      "tier": 2,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_5",
+      "tier": 3,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_6",
+      "tier": 3,
+      "type": 5
+    },{
+      "perkID": "perk_medium_armour_7",
+      "tier": 4,
+      "type": 5
+    },{
+      "perkID": "perk_medium_armour_8",
+      "tier": 4,
+      "type": 5
+    },{
+      "perkID": "perk_medium_armour_9",
+      "tier": 5,
+      "type": 5
+    },
+    {
+      "perkID": "perk_medium_armour_10",
+      "tier": 5,
+      "type": 5
+    },
+    {
+      "perkID": "perk_heavy_armour_1",
+      "tier": 1,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_2",
+      "tier": 1,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_3",
+      "tier": 2,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_4",
+      "tier": 2,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_5",
+      "tier": 3,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_6",
+      "tier": 3,
+      "type": 6
+    },{
+      "perkID": "perk_heavy_armour_7",
+      "tier": 4,
+      "type": 6
+    },{
+      "perkID": "perk_heavy_armour_8",
+      "tier": 4,
+      "type": 6
+    },{
+      "perkID": "perk_heavy_armour_9",
+      "tier": 5,
+      "type": 6
+    },
+    {
+      "perkID": "perk_heavy_armour_10",
+      "tier": 5,
+      "type": 6
+    }
+  ]
+}
