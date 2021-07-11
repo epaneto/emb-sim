@@ -72,4 +72,4 @@ class Main:
                 self.battleHistory.append(self.playerBattles)
 
 if __name__ == '__main__':
-    game = Main(1000, 0)
+    game = Main(1, 0)
