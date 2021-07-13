@@ -22,6 +22,7 @@ class GemPlayer:
         self.numSessions = 0
         self.gemCountHistory = []
         self.sessionHistory = []
+        self.uselessGemsHistory = []
         self.startGemHunt()
 
 
@@ -48,7 +49,21 @@ class GemPlayer:
             self.gemCountHistory.append(self.acquiredSkills)
             self.sessionHistory.append(self.numSessions)
             self.checkCompletion()
+
+            self.uselessGemsHistory.append(self.getUselessGems())
         print("player completed", self.numSessions)
+
+    def getUselessGems(self):
+        totalUnused = 0
+
+        totalUnused += self.color1Group.uselessGems
+        totalUnused += self.color2Group.uselessGems
+        totalUnused += self.color3Group.uselessGems
+        totalUnused += self.color4Group.uselessGems
+        totalUnused += self.color5Group.uselessGems
+        totalUnused += self.color6Group.uselessGems
+
+        return totalUnused
 
     def checkCompletion(self):
         if self.color1Group.isComplete() or self.color2Group.isComplete() or self.color3Group.isComplete() or self.color4Group.isComplete() or self.color5Group.isComplete():
